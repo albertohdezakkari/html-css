@@ -1,0 +1,26 @@
+#container{
+    background-color: #FFFFCC;
+}
+body{
+    background-image: url('../img/super-hero-01.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.gallery{
+    display: inline-block;
+}
+/*REGLAS CSS*/
+/*
+contenedor
+.contenedor{
+    // atributo en HTML 
+    <div class="contenedor">
+
+    </div>
+}
+#contenedor{
+    <div id="contenedor">
+
+    </div>
+}
+*/
