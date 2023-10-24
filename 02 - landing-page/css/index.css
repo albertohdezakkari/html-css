@@ -53,6 +53,19 @@ body{
 #grid div{
     display: inline-block;
 }
+#grid > div{
+    display: inline-block;
+}
+#container > :first-child {
+    /* estilos aquí */
+}
+#container > :last-child {
+    /* estilos aquí */
+}
+#container > :nth-child(2) {
+    /* estilos aquí */
+}
+
 .dis{
     display: inline-block;
     width: 31%;
