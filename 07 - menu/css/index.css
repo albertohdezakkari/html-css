@@ -1,0 +1,50 @@
+.s-input{
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.b-submit{
+    background-color: lightblue;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.gradient-bg{
+    background: linear-gradient(360deg, red, yellow);
+    padding: 20px;
+    /*text-align: center;*/
+}
+
+.nav{
+    list-style-type: none;
+    padding: 0;
+}
+
+.nav > li{
+    display: inline;
+    padding: 0;
+}
+
+.nav a{
+    text-decoration: none;
+}
+.nav a:hover{
+    color: green;
+}
+
+.nav li:nth-child(1) a:hover{
+    color: red;
+}
+.nav li:nth-child(2) a:hover{
+    color: yellow;
+}
+.nav li:nth-child(3) a:hover{
+    color: aquamarine;
+}
+.nav li:first-child{
+
+}
+.nav li:last-child{
+
+}

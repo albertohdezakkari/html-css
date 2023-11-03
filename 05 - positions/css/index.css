@@ -1,0 +1,24 @@
+.relative-box{
+    position: relative;
+    top: 10px;
+    left: 10px;
+    background-color: peachpuff;
+    width: 20px;
+    height: 20px;
+}
+.absolute-box{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: lightblue;
+    width: 20px;
+    height: 20px;
+}
+.absolute-box2{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color:  yellow;
+    width: 20px;
+    height: 20px;
+}
